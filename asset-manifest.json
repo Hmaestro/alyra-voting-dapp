@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/alyra-voting-dapp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/alyra-voting-dapp/static/js/main.2119179b.chunk.js",
+    "main.js.map": "/alyra-voting-dapp/static/js/main.2119179b.chunk.js.map",
+    "runtime-main.js": "/alyra-voting-dapp/static/js/runtime-main.9e81360e.js",
+    "runtime-main.js.map": "/alyra-voting-dapp/static/js/runtime-main.9e81360e.js.map",
+    "static/js/2.0df738b0.chunk.js": "/alyra-voting-dapp/static/js/2.0df738b0.chunk.js",
+    "static/js/2.0df738b0.chunk.js.map": "/alyra-voting-dapp/static/js/2.0df738b0.chunk.js.map",
+    "index.html": "/alyra-voting-dapp/index.html",
+    "precache-manifest.a32f124d748613af0035ef6c50c65442.js": "/alyra-voting-dapp/precache-manifest.a32f124d748613af0035ef6c50c65442.js",
+    "service-worker.js": "/alyra-voting-dapp/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/alyra-voting-dapp/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e81360e.js",
+    "static/js/2.0df738b0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.2119179b.chunk.js"
+  ]
+}
